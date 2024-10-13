@@ -36,11 +36,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: AbtinBateni
+# twitter: AbtinBateni
 # instagram: myinstagram
 linkedin: abtin-bateni
 github: mr-bat
-email: abtin@bateni.org
+email: abtinbateni@gmail.com
 # pinterest: mypinterest
 # youtube: myyoutube
 spotify: mr-bat
@@ -65,7 +65,7 @@ medium: abtinbateni
 # figshare: myfigshare
 
 # if desired, specify custom order of social links in the array below
-social-links-order: [twitter, linkedin, github, email, spotify, medium]
+social-links-order: [linkedin, github, email, spotify, medium]
 
 authors:
   abtinbateni:
